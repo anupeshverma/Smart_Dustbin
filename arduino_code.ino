@@ -56,4 +56,5 @@ void loop()
     }
     Serial.print("Distance:");
     Serial.println(distance);  //print distance on serial monitor
+    Serial.print("cm");
 }
