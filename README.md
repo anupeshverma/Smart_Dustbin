@@ -16,8 +16,8 @@ In this project, we will make a Smart Dustbin using Arduino, where the lid of th
 <h2>Sample Images</h2>
 <p align="center">
   <img  src="front_view.jpg" width="40%" height="20%"/>
-  <img  src="side_view.jpg" width="35.5%" height="20%"/>
-  </p>
+  <img  src= "side_view.jpg" width="40%" height="20%" />
+</p>
  
   
   <h2>Sample Videos</h2>
