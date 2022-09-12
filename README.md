@@ -21,3 +21,5 @@ In this project, we will make a Smart Dustbin using Arduino, where the lid of th
  
   
   <h2>Sample Videos</h2>
+ <p> https://drive.google.com/file/d/15l2tHRufLWa9Co6dKif9n9zCpDa_fkbw/view?usp=sharing</p>
+ <p> https://drive.google.com/file/d/1gkcNxRUz2Qt5cA4ZQFNuffmqVkifjy0z/view?usp=sharing</p>
