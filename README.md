@@ -3,7 +3,7 @@
 In this project, we will make a Smart Dustbin using Arduino, where the lid of the dustbin will automatically open when you approach with trash. It is a decent gadget to make your home clean and attractive.</p>
 
 <h2>Presentation Link</h2>
-<p>https://docs.google.com/presentation/d/1-YAQk5i-yGcteNnJuoGzqat0Cx3TiTES/edit?usp=sharing&ouid=118370855782832481229&rtpof=true&sd=true</p>
+<p> <a href="https://docs.google.com/presentation/d/1-YAQk5i-yGcteNnJuoGzqat0Cx3TiTES/edit?usp=sharing&ouid=118370855782832481229&rtpof=true&sd=true">Click Here for PPT</a></p>
 
 <h2>Components Used</h2>
 <ul>
